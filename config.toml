@@ -1,0 +1,9 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Training Course"
+
+[params]
+  author = ""
+  tagline = ""
+  description = ""
+  twitter = ""

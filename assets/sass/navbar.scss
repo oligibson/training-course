@@ -1,0 +1,31 @@
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/functions";
+@import "custom_variables";
+
+$navbar-purple-toggler-icon-bg: str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#{$gray-400}' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"), "#", "%23") !default;
+
+.navbar-custom{
+  background-color: $hero-background-color;
+  color: $gray-100;
+
+  .navbar-nav{
+
+    .nav-link{
+      color: $gray-400;
+
+      &:focus, &:hover{
+        color: $gray-100;
+      }
+    }
+  }
+
+  .navbar-toggler {
+    color: $gray-400;
+    border-color: none;
+  }
+
+  .navbar-toggler-icon {
+    background-image: $navbar-purple-toggler-icon-bg;
+  }
+
+}

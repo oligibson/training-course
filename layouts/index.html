@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<div>
+<!-- Ranges through home/*.md -->
+{{ range $page := where .Pages "File.Dir" "in" "/home/" }}
+    {{ $widget := printf "home/%s.html" ( or $page.Params.widget "custom" ) }}
+    <section id="{{ $page.File.TranslationBaseName }}" class="home-section py-5">
+        {{ partial $widget $page }}
+    </section>
+{{ end }}
+</div>
+
+{{ partial "footer.html" . }}

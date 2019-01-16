@@ -1,0 +1,74 @@
+@import "../../node_modules/bootstrap/scss/variables";
+@import "custom_variables";
+
+.card-img-top{
+  background-color: var(--grey-light);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 230px;
+  border-radius: 3px 3px 0 0;
+}
+
+section{
+
+  p{
+    font-size: 18px;
+    color: rgb(82, 97, 115);
+    line-height: 32px;
+    letter-spacing: -.3px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h4{
+    letter-spacing: -.6px;
+    line-height: 34px;
+  }
+
+  .display-1{
+    font-size: 4rem;
+    font-family: $font-family-serif;
+  }
+
+  .header{
+    color: $hero-background-color;
+  }
+
+  .display-4{
+    font-size: $font-size-base * 1.75;
+    letter-spacing: 4px;
+    color: $gray-900;
+    text-transform: uppercase;
+  }
+
+  @include media-breakpoint-up(sm) {
+    .display-1{
+      font-size: 6rem;
+    }
+  }
+
+}
+
+#hero{
+  display: flex;
+  align-items: center;
+  min-height: calc(100vh - 6vh);
+  background-color: $hero-background-color;
+
+  .display-1{
+    color: $gray-200;
+  }
+
+  .tagline {
+    color: $gray-400;
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  @include media-breakpoint-up(sm) {
+    .tagline{
+      font-size: 1.75rem;
+      line-height: 45px;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+<!--<div class="footer copyright">-->
+    <!--<div class="container">-->
+        <!--<div class="row">-->
+
+            <!--<div class="col-6">-->
+                <!--<small>©Oli Gibson</small>-->
+            <!--</div>-->
+
+            <!--<div class="col-6">-->
+                <!--<small class="float-right"><a href="#nav-main" class="to-the-top">To the top</a></small>-->
+            <!--</div>-->
+
+        <!--</div>-->
+    <!--</div>-->
+<!--</div>-->
+
+{{ $jquery := resources.Get "js/vendor/jquery.min.js" }}
+{{ $popperjs := resources.Get "js/vendor/popper.min.js" }}
+{{ $bootstrap := resources.Get "js/vendor/bootstrap.min.js" }}
+{{ $js := slice $jquery $popperjs $bootstrap | resources.Concat "js/bundle.js" | resources.Minify }}
+<script src="{{ $js.Permalink }}"></script>
+<script>
+	mixpanel.track("Site Viewed", {"First Time": "TRUE"}, function() {
+		setTimeout(mixpanel.register({"First Time": "FALSE"}), 500);
+	});
+</script>
+</body>
+</html>
