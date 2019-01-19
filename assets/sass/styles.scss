@@ -51,11 +51,6 @@ section{
     color: white;
     font-weight: 700;
     font-size: 60px;
-    margin-bottom: 30px;
-  }
-
-  h3.home{
-    margin-bottom: 50px;
   }
 
   h5.subtitle{
@@ -67,7 +62,6 @@ section{
     background: -webkit-linear-gradient(104.74deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    margin-bottom: 30px;
   }
 
   p.list{
@@ -133,28 +127,6 @@ section{
     margin-bottom: 0;
   }
 
-  .course{
-    background-color: $white;
-    box-shadow: $gray-700 0px 10px 20px;
-    border-radius: .25rem;
-    border-color: rgb(198, 208, 235);
-    margin-top: 50px;
-    padding: 50px 0;
-
-    .section-numbers{
-      font-size: 18px;
-      font-weight: 500;
-      text-transform: uppercase;
-      background: -webkit-linear-gradient(104.74deg, rgb(148, 164, 186) 0%, rgb(148, 164, 186) 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-
-  }
-
-  .list-row{
-    margin: 20px 0 50px 0;
-  }
 }
 
 
@@ -162,8 +134,8 @@ section{
   box-shadow: rgba(198, 208, 235, 0.5) 0px 10px 20px;
   border-color: rgb(198, 208, 235);
 }
+
 .card.why-join{
-  min-height:200px;
 
   .card-title{
     font-size: 18px;
@@ -177,12 +149,4 @@ section{
   .card-subtitle{
     margin-bottom: .75rem;
   }
-}
-
-.cta-section{
-  margin-top: 20px;
-}
-
-.custom-list-item{
-  border-bottom: 1px solid rgb(198, 208, 235);
 }
