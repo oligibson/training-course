@@ -4,49 +4,5 @@
 .footer{
   padding-top: 20px;
   padding-bottom: 20px;
-}
-
-.social{
-  background-color: rgb(39, 48, 59);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 20px 0;
-
-  a.footer-icon{
-    margin: 10px 20px;
-    display: inline-block;
-
-    .footer-iconImg{
-      opacity: .8;
-      transition: opacity .2s;
-    }
-  }
-}
-
-.copyright{
-  background-color: rgb(29, 38, 47);
-  color: $gray-600;
-
-  .to-the-top {
-    color: $gray-600;
-    padding-left: 7px;
-
-  }
-
-  small{
-    font-size: .8em;
-    text-transform: uppercase;
-    letter-spacing: 1.3px;
-
-    a:focus {
-      text-decoration: none;
-    }
-
-    a:hover {
-      color: $gray-200;
-      text-decoration: none;
-    }
-
-  }
+  background-color: rgb(240, 243, 245);
 }

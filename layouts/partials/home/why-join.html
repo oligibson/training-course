@@ -1,0 +1,20 @@
+<div class="container">
+    <div class="row text-center">
+        <div class="col">
+            <h3 class="home text-capitalize">{{.Title }}</h3>
+        </div>
+    </div>
+    <div class="row">
+    {{ range .Params.reasons }}
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div class="card why-join mt-3">
+                <div class="card-body">
+                    <h5 class="card-title text-uppercase">{{ .header }}</h5>
+                    <h6 class="card-subtitle text-capitalize">{{ .sub_header }}</h6>
+                    <h5 class="card-text">{{ .copy }}</h5>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+    </div>
+</div>

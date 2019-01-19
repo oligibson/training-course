@@ -1,5 +1,12 @@
-$font-family-sans-serif: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
-$font-family-serif: 'Rubik', sans-serif;
+$font-family-sans-serif: "Oxygen", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
 $font-family-base: $font-family-sans-serif !default;
-$hero-background-color: rgba(60, 8, 118, 1);
+//$hero-background-color: rgba(60, 8, 118, 1);
+$hero-background-color: -webkit-linear-gradient(104.74deg, rgb(176, 30, 255) 0%, rgb(225, 70, 124) 100%);
 $primary: rgba(60, 8, 118, 1) !default;
+
+// Font Sizes - Change to REM
+$h2-font-size: 90px;
+$h3-font-size: 50px;
+$h4-font-size: 60px;
+$h5-font-size: 20px;
+$h6-font-size: 30px;
