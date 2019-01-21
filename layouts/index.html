@@ -12,3 +12,10 @@
 </div>
 
 {{ partial "footer.html" . }}
+
+<script>
+	mixpanel.track("Home Page Viewed", {"First Time": "TRUE"}, function()
+	{
+		setTimeout(mixpanel.register({"First Time": "FALSE"}), 500);
+	});
+</script>

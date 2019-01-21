@@ -8,7 +8,7 @@
                     <div class="form-group my-4">
                         <input class="form-control form-control-lg" type="email" name="email" placeholder="Email Address">
                     </div>
-                    <button type="submit" class="btn btn-primary btn-block text-capitalize">{{ .Params.btn_cta }}</button>
+                    <button type="submit" class="btn btn-primary btn-block text-capitalize" onclick="mixpanel.track('Registered');">{{ .Params.btn_cta }}</button>
                 </form>
             </div>
         </div>

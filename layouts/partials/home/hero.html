@@ -18,7 +18,7 @@
     </div>
     <div class="row cta-section">
         <div class="col text-center">
-            <button type="button" class="btn btn-primary btn-lg text-capitalize" data-toggle="modal" data-target="#signupModal">{{ $cta.Title }}</button>
+            <button type="button" class="btn btn-primary btn-lg text-capitalize" data-toggle="modal" data-target="#signupModal" onclick="mixpanel.track('Sign Up', {'Click Location': 'Hero'});">{{ $cta.Title }}</button>
         </div>
     </div>
     <div class="row mt-2">
