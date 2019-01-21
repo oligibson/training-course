@@ -39,6 +39,12 @@ p{
   background: $hero-background-color;
 }
 
+.full-page-cover{
+  height: 100vh;
+  width: 100%;
+  margin-top: -56px;
+}
+
 .text-background-override{
   background: none !important;
   -webkit-text-fill-color: #ffffff !important;
