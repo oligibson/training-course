@@ -4,6 +4,7 @@ date: 2018-11-19T16:30:27Z
 draft: false
 widget: "cta"
 reasons:
-  - "Over 60 hours of course content."
+  - "Practical courses, supported by experts."
+  - "Over 20 hours of course content."
   - "Free to access, cancel anytime."
 ---

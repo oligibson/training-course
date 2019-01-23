@@ -1,12 +1,13 @@
 ---
 title: "Business Modeling"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat. Hendrerit dolor magna eget est lorem ipsum."
+description: "Learn how to refine your product idea and turn it into a sustainable business. Refine your product using the lean canvas, set goals for its growth and discover the different stages of the customer lifecycle. Lastly breakdown your own product to find out how to turn unaware visitors into paying customers."
 date: 2019-01-16T16:11:51Z
 draft: false
 popular: true
 cta_text: "Learn Business Modeling"
 root: true
 weight: 2
-course: "modelling"
+course: "modeling"
+featured_image: "img/business-modeling.png"
 ---
 
