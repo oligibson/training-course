@@ -8,24 +8,28 @@ $navbar-purple-toggler-icon-bg: str-replace(url("data:image/svg+xml;charset=utf8
   background-color: $hero-background-color;
   color: $gray-100;
 
-  //.navbar-nav{
-  //
-  //  .nav-link{
-  //    color: $gray-400;
-  //
-  //    &:focus, &:hover{
-  //      color: $gray-100;
-  //    }
-  //  }
-  //}
-  //
-  //.navbar-toggler {
-  //  color: $gray-400;
-  //  border-color: none;
-  //}
-  //
-  //.navbar-toggler-icon {
-  //  background-image: $navbar-purple-toggler-icon-bg;
-  //}
+  .navbar-brand{
+    color: $gray-100;
+  }
+
+  .navbar-nav{
+
+    .nav-link{
+      color: $gray-400;
+
+      &:focus, &:hover{
+        color: $gray-100;
+      }
+    }
+  }
+
+  .navbar-toggler {
+    color: $gray-400;
+    border-color: none;
+  }
+
+  .navbar-toggler-icon {
+    background-image: $navbar-purple-toggler-icon-bg;
+  }
 
 }

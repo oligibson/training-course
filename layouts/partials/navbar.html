@@ -1,27 +1,18 @@
 <nav id="nav-main" class="navbar navbar-sticky navbar-expand-lg navbar-custom">
     <div class="container">
-        <a class="navbar-brand" href="#">
-            <img src="/img/signiture-white.png" width="133" height="33" alt="">
-        </a>
-        <!--<a class="navbar-brand" href="#">Oli Gibson</a>-->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <!--<div class="navbar-collapse collapse" id="navbarNav">-->
-            <!--<ul class="nav navbar-nav ml-auto">-->
-                <!--<li class="nav-item">-->
-                    <!--<a class="nav-link" href="#about">About</a>-->
-                <!--</li>-->
-                <!--<li class="nav-item">-->
-                    <!--<a class="nav-link" href="#blog">Blog</a>-->
-                <!--</li>-->
-                <!--<li class="nav-item">-->
-                    <!--<a class="nav-link" href="#talks">Talks</a>-->
-                <!--</li>-->
-                <!--<li class="nav-item">-->
-                    <!--<a class="nav-link" href="https://www.thoughtworks.com/" target="_blank">ThoughtWorks</a>-->
-                <!--</li>-->
-            <!--</ul>-->
-        <!--</div>-->
+        <!--<a class="navbar-brand" href="#">-->
+            <!--<img src="/img/signiture-white.png" width="133" height="33" alt="">-->
+        <!--</a>-->
+        <a class="navbar-brand" href="#">{{ $.Site.Title }}</a>
+        <!--<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">-->
+            <!--<span class="navbar-toggler-icon"></span>-->
+        <!--</button>-->
+        <div id="navbarNav">
+            <ul class="nav navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#" data-toggle="modal" data-target="#signupModal" onclick="mixpanel.track('Sign Up', {'Click Location': 'Navbar'});">Sign Up</a>
+                </li>
+            </ul>
+        </div>
     </div>
 </nav>

@@ -1,9 +1,10 @@
-baseURL = ""
+baseURL = "productplayground.org"
 languageCode = "en-us"
-title = "Training Course"
+title = "The Product Playground"
 
 [params]
   author = ""
-  tagline = ""
-  description = ""
-  twitter = ""
+  tagline = "Learn How To Create Successful Software Products"
+  description = "Practical courses teaching the best methods and tools to take your product from idea to success. Learn user research, lean experimentation, product scaling and more. No product experience required."
+  twitter = "@oligibson"
+  keywords = "product course, product management course, user research, lean experiments, lean experimentation, product scaling, business modeling, training, learn product management"
