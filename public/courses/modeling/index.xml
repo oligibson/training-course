@@ -1,15 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Business Modeling on Training Course</title>
-    <link>/courses/modeling/</link>
-    <description>Recent content in Business Modeling on Training Course</description>
+    <title>Business Modeling on The Product Playground</title>
+    <link>https://productplayground.org/courses/modeling/</link>
+    <description>Recent content in Business Modeling on The Product Playground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jan 2019 16:11:51 +0000</lastBuildDate>
     
-	<atom:link href="/courses/modeling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://productplayground.org/courses/modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is Business Modeling</title>
+      <link>https://productplayground.org/courses/modeling/what-is-modeling/</link>
+      <pubDate>Wed, 23 Jan 2019 17:19:52 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/what-is-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Four Business Models</title>
+      <link>https://productplayground.org/courses/modeling/the-four-models/</link>
+      <pubDate>Wed, 23 Jan 2019 17:20:01 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/the-four-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating a Lean Canvas</title>
+      <link>https://productplayground.org/courses/modeling/lean-canvas/</link>
+      <pubDate>Wed, 23 Jan 2019 17:20:11 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/lean-canvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting Traction Goals</title>
+      <link>https://productplayground.org/courses/modeling/traction-goals/</link>
+      <pubDate>Wed, 23 Jan 2019 17:20:19 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/traction-goals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Theory of Constraints</title>
+      <link>https://productplayground.org/courses/modeling/theory-of-constraints/</link>
+      <pubDate>Wed, 23 Jan 2019 17:20:31 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/theory-of-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling your Product</title>
+      <link>https://productplayground.org/courses/modeling/modeling-a-product/</link>
+      <pubDate>Wed, 23 Jan 2019 17:20:44 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/modeling-a-product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acquiring Users</title>
+      <link>https://productplayground.org/courses/modeling/acquiring-users/</link>
+      <pubDate>Wed, 23 Jan 2019 17:21:05 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/acquiring-users/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Converting Users to Customers</title>
+      <link>https://productplayground.org/courses/modeling/users-to-customers/</link>
+      <pubDate>Wed, 23 Jan 2019 17:21:18 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/users-to-customers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retaining Customers</title>
+      <link>https://productplayground.org/courses/modeling/retaining-customers/</link>
+      <pubDate>Wed, 23 Jan 2019 17:21:26 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/retaining-customers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Going Viral</title>
+      <link>https://productplayground.org/courses/modeling/going-viral/</link>
+      <pubDate>Wed, 23 Jan 2019 17:21:49 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/going-viral/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

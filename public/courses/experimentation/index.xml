@@ -1,76 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lean Experimentation on Training Course</title>
-    <link>/courses/experimentation/</link>
-    <description>Recent content in Lean Experimentation on Training Course</description>
+    <title>Lean Experimentation on The Product Playground</title>
+    <link>https://productplayground.org/courses/experimentation/</link>
+    <description>Recent content in Lean Experimentation on The Product Playground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jan 2019 16:09:41 +0000</lastBuildDate>
     
-	<atom:link href="/courses/experimentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://productplayground.org/courses/experimentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What is Experimentation</title>
-      <link>/courses/experimentation/what-is-experimentation/</link>
+      <link>https://productplayground.org/courses/experimentation/what-is-experimentation/</link>
       <pubDate>Fri, 18 Jan 2019 12:08:07 +0000</pubDate>
       
-      <guid>/courses/experimentation/what-is-experimentation/</guid>
+      <guid>https://productplayground.org/courses/experimentation/what-is-experimentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Types of Experiment</title>
-      <link>/courses/experimentation/types-of-experiment/</link>
+      <link>https://productplayground.org/courses/experimentation/types-of-experiment/</link>
       <pubDate>Fri, 18 Jan 2019 12:08:45 +0000</pubDate>
       
-      <guid>/courses/experimentation/types-of-experiment/</guid>
+      <guid>https://productplayground.org/courses/experimentation/types-of-experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Assumptions</title>
+      <link>https://productplayground.org/courses/experimentation/uncovering-assumptions/</link>
+      <pubDate>Fri, 18 Jan 2019 12:08:07 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/experimentation/uncovering-assumptions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forming Hypothesis</title>
-      <link>/courses/experimentation/forming-hypothesis/</link>
+      <link>https://productplayground.org/courses/experimentation/forming-hypothesis/</link>
       <pubDate>Fri, 18 Jan 2019 12:08:56 +0000</pubDate>
       
-      <guid>/courses/experimentation/forming-hypothesis/</guid>
+      <guid>https://productplayground.org/courses/experimentation/forming-hypothesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building an Experiment</title>
-      <link>/courses/experimentation/building-experiments/</link>
+      <link>https://productplayground.org/courses/experimentation/building-experiments/</link>
       <pubDate>Fri, 18 Jan 2019 12:09:10 +0000</pubDate>
       
-      <guid>/courses/experimentation/building-experiments/</guid>
+      <guid>https://productplayground.org/courses/experimentation/building-experiments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring an Experiment</title>
-      <link>/courses/experimentation/measuring-results/</link>
+      <link>https://productplayground.org/courses/experimentation/measuring-results/</link>
       <pubDate>Fri, 18 Jan 2019 12:09:20 +0000</pubDate>
       
-      <guid>/courses/experimentation/measuring-results/</guid>
+      <guid>https://productplayground.org/courses/experimentation/measuring-results/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feedback &amp; Iteration</title>
-      <link>/courses/experimentation/feedback/</link>
+      <link>https://productplayground.org/courses/experimentation/feedback/</link>
       <pubDate>Fri, 18 Jan 2019 12:09:37 +0000</pubDate>
       
-      <guid>/courses/experimentation/feedback/</guid>
+      <guid>https://productplayground.org/courses/experimentation/feedback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Common Challenges</title>
-      <link>/courses/experimentation/challenges/</link>
+      <link>https://productplayground.org/courses/experimentation/challenges/</link>
       <pubDate>Fri, 18 Jan 2019 12:09:44 +0000</pubDate>
       
-      <guid>/courses/experimentation/challenges/</guid>
+      <guid>https://productplayground.org/courses/experimentation/challenges/</guid>
       <description></description>
     </item>
     

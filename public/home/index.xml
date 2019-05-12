@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Training Course</title>
-    <link>/home/</link>
-    <description>Recent content in Homes on Training Course</description>
+    <title>Homes on The Product Playground</title>
+    <link>https://productplayground.org/home/</link>
+    <description>Recent content in Homes on The Product Playground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Nov 2018 16:30:27 +0000</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://productplayground.org/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learn how to create successful software products</title>
-      <link>/home/hero/</link>
+      <link>https://productplayground.org/home/hero/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>https://productplayground.org/home/hero/</guid>
       <description></description>
     </item>
     
     <item>
       <title>courses, more coming.</title>
-      <link>/home/courses/</link>
+      <link>https://productplayground.org/home/courses/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/courses/</guid>
+      <guid>https://productplayground.org/home/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/numbers/</link>
+      <link>https://productplayground.org/home/numbers/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/numbers/</guid>
+      <guid>https://productplayground.org/home/numbers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Popular courses</title>
-      <link>/home/detail/</link>
+      <link>https://productplayground.org/home/detail/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/detail/</guid>
+      <guid>https://productplayground.org/home/detail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Join?</title>
-      <link>/home/why-join/</link>
+      <link>https://productplayground.org/home/why-join/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/why-join/</guid>
+      <guid>https://productplayground.org/home/why-join/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ready to get started?</title>
-      <link>/home/get-started/</link>
+      <link>https://productplayground.org/home/get-started/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/get-started/</guid>
+      <guid>https://productplayground.org/home/get-started/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sign Up</title>
-      <link>/home/sign-up/</link>
+      <link>https://productplayground.org/home/sign-up/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/sign-up/</guid>
+      <guid>https://productplayground.org/home/sign-up/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sign up for full access</title>
-      <link>/home/partials/cta/</link>
+      <link>https://productplayground.org/home/partials/cta/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/partials/cta/</guid>
+      <guid>https://productplayground.org/home/partials/cta/</guid>
       <description></description>
     </item>
     

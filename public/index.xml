@@ -1,148 +1,247 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oli Gibson on Training Course</title>
-    <link>/</link>
-    <description>Recent content in Oli Gibson on Training Course</description>
+    <title>The Product Playground</title>
+    <link>https://productplayground.org/</link>
+    <description>Recent content on The Product Playground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Nov 2018 16:48:09 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://productplayground.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>What is Business Modeling</title>
+      <link>https://productplayground.org/courses/modeling/what-is-modeling/</link>
+      <pubDate>Wed, 23 Jan 2019 17:19:52 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/what-is-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What is Experimentation</title>
-      <link>/courses/experimentation/what-is-experimentation/</link>
+      <link>https://productplayground.org/courses/experimentation/what-is-experimentation/</link>
       <pubDate>Fri, 18 Jan 2019 12:08:07 +0000</pubDate>
       
-      <guid>/courses/experimentation/what-is-experimentation/</guid>
+      <guid>https://productplayground.org/courses/experimentation/what-is-experimentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn how to create successful software products</title>
-      <link>/home/hero/</link>
+      <link>https://productplayground.org/home/hero/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>https://productplayground.org/home/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Four Business Models</title>
+      <link>https://productplayground.org/courses/modeling/the-four-models/</link>
+      <pubDate>Wed, 23 Jan 2019 17:20:01 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/the-four-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Types of Experiment</title>
-      <link>/courses/experimentation/types-of-experiment/</link>
+      <link>https://productplayground.org/courses/experimentation/types-of-experiment/</link>
       <pubDate>Fri, 18 Jan 2019 12:08:45 +0000</pubDate>
       
-      <guid>/courses/experimentation/types-of-experiment/</guid>
+      <guid>https://productplayground.org/courses/experimentation/types-of-experiment/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Forming Hypothesis</title>
-      <link>/courses/experimentation/forming-hypothesis/</link>
-      <pubDate>Fri, 18 Jan 2019 12:08:56 +0000</pubDate>
+      <title>Creating a Lean Canvas</title>
+      <link>https://productplayground.org/courses/modeling/lean-canvas/</link>
+      <pubDate>Wed, 23 Jan 2019 17:20:11 +0000</pubDate>
       
-      <guid>/courses/experimentation/forming-hypothesis/</guid>
+      <guid>https://productplayground.org/courses/modeling/lean-canvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Assumptions</title>
+      <link>https://productplayground.org/courses/experimentation/uncovering-assumptions/</link>
+      <pubDate>Fri, 18 Jan 2019 12:08:07 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/experimentation/uncovering-assumptions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>courses, more coming.</title>
-      <link>/home/courses/</link>
+      <link>https://productplayground.org/home/courses/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/courses/</guid>
+      <guid>https://productplayground.org/home/courses/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Building an Experiment</title>
-      <link>/courses/experimentation/building-experiments/</link>
-      <pubDate>Fri, 18 Jan 2019 12:09:10 +0000</pubDate>
+      <title>Setting Traction Goals</title>
+      <link>https://productplayground.org/courses/modeling/traction-goals/</link>
+      <pubDate>Wed, 23 Jan 2019 17:20:19 +0000</pubDate>
       
-      <guid>/courses/experimentation/building-experiments/</guid>
+      <guid>https://productplayground.org/courses/modeling/traction-goals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forming Hypothesis</title>
+      <link>https://productplayground.org/courses/experimentation/forming-hypothesis/</link>
+      <pubDate>Fri, 18 Jan 2019 12:08:56 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/experimentation/forming-hypothesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/numbers/</link>
+      <link>https://productplayground.org/home/numbers/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/numbers/</guid>
+      <guid>https://productplayground.org/home/numbers/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Measuring an Experiment</title>
-      <link>/courses/experimentation/measuring-results/</link>
-      <pubDate>Fri, 18 Jan 2019 12:09:20 +0000</pubDate>
+      <title>The Theory of Constraints</title>
+      <link>https://productplayground.org/courses/modeling/theory-of-constraints/</link>
+      <pubDate>Wed, 23 Jan 2019 17:20:31 +0000</pubDate>
       
-      <guid>/courses/experimentation/measuring-results/</guid>
+      <guid>https://productplayground.org/courses/modeling/theory-of-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building an Experiment</title>
+      <link>https://productplayground.org/courses/experimentation/building-experiments/</link>
+      <pubDate>Fri, 18 Jan 2019 12:09:10 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/experimentation/building-experiments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Popular courses</title>
-      <link>/home/detail/</link>
+      <link>https://productplayground.org/home/detail/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/detail/</guid>
+      <guid>https://productplayground.org/home/detail/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Feedback &amp; Iteration</title>
-      <link>/courses/experimentation/feedback/</link>
-      <pubDate>Fri, 18 Jan 2019 12:09:37 +0000</pubDate>
+      <title>Modeling your Product</title>
+      <link>https://productplayground.org/courses/modeling/modeling-a-product/</link>
+      <pubDate>Wed, 23 Jan 2019 17:20:44 +0000</pubDate>
       
-      <guid>/courses/experimentation/feedback/</guid>
+      <guid>https://productplayground.org/courses/modeling/modeling-a-product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring an Experiment</title>
+      <link>https://productplayground.org/courses/experimentation/measuring-results/</link>
+      <pubDate>Fri, 18 Jan 2019 12:09:20 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/experimentation/measuring-results/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Join?</title>
-      <link>/home/why-join/</link>
+      <link>https://productplayground.org/home/why-join/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/why-join/</guid>
+      <guid>https://productplayground.org/home/why-join/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Common Challenges</title>
-      <link>/courses/experimentation/challenges/</link>
-      <pubDate>Fri, 18 Jan 2019 12:09:44 +0000</pubDate>
+      <title>Acquiring Users</title>
+      <link>https://productplayground.org/courses/modeling/acquiring-users/</link>
+      <pubDate>Wed, 23 Jan 2019 17:21:05 +0000</pubDate>
       
-      <guid>/courses/experimentation/challenges/</guid>
+      <guid>https://productplayground.org/courses/modeling/acquiring-users/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedback &amp; Iteration</title>
+      <link>https://productplayground.org/courses/experimentation/feedback/</link>
+      <pubDate>Fri, 18 Jan 2019 12:09:37 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/experimentation/feedback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ready to get started?</title>
-      <link>/home/get-started/</link>
+      <link>https://productplayground.org/home/get-started/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/get-started/</guid>
+      <guid>https://productplayground.org/home/get-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Converting Users to Customers</title>
+      <link>https://productplayground.org/courses/modeling/users-to-customers/</link>
+      <pubDate>Wed, 23 Jan 2019 17:21:18 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/users-to-customers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common Challenges</title>
+      <link>https://productplayground.org/courses/experimentation/challenges/</link>
+      <pubDate>Fri, 18 Jan 2019 12:09:44 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/experimentation/challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retaining Customers</title>
+      <link>https://productplayground.org/courses/modeling/retaining-customers/</link>
+      <pubDate>Wed, 23 Jan 2019 17:21:26 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/retaining-customers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Going Viral</title>
+      <link>https://productplayground.org/courses/modeling/going-viral/</link>
+      <pubDate>Wed, 23 Jan 2019 17:21:49 +0000</pubDate>
+      
+      <guid>https://productplayground.org/courses/modeling/going-viral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sign Up</title>
-      <link>/home/sign-up/</link>
+      <link>https://productplayground.org/home/sign-up/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/sign-up/</guid>
+      <guid>https://productplayground.org/home/sign-up/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sign up for full access</title>
-      <link>/home/partials/cta/</link>
+      <link>https://productplayground.org/home/partials/cta/</link>
       <pubDate>Mon, 19 Nov 2018 16:30:27 +0000</pubDate>
       
-      <guid>/home/partials/cta/</guid>
+      <guid>https://productplayground.org/home/partials/cta/</guid>
       <description></description>
     </item>
     
