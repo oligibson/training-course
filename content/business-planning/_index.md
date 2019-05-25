@@ -5,5 +5,5 @@ date: 2019-01-21T14:39:09Z
 draft: false
 layout: landing
 btn_cta: Remind Me
-mixpanel_page: Business Planning - Landing Page View
+mixpanel_page: Business Planning
 ---
