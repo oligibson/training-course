@@ -92,7 +92,7 @@ mixpanel.init("6499a362de7d53960e548ef10898ff4a");</script>
                         <h5 class="card-text my-4">We&#39;re working hard to put the finishing touches to our brand new business planning course. Things are going well and it should be ready very soon. If you would like us to send you a reminder when we&#39;re ready, just add your email below and we&#39;ll be in touch very soon.</h5>
                         <form id="business-planning-sign-up" class="text-center" method="POST" data-netlify="true" action="/success">
                             <div class="input-group w-75 mx-auto my-3">
-                                <input class="form-control form-control-lg" type="email" name="email" placeholder="Your Email" onclick="mixpanel.track('Business Planning - Email Input Click');">
+                                <input class="form-control form-control-lg" type="email" name="email" placeholder="Your Email" onclick="mixpanel.track('Business Planning - Email Input Click');" required>
                                 <div class="input-group-append">
                                     <button type="submit" class="btn btn-primary" onclick="mixpanel.track('Business Planning - Register Btn Click');">Remind Me</button>
                                 </div>
