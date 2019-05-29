@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row text-center">
         <div class="col">
-            <h3 class="mb-6">{{ len $courses }} {{.Title }}</h3>
+            <h3 class="purple-gradient mb-6">{{ len $courses }} {{.Title }}</h3>
         </div>
     </div>
     <div class="row">
@@ -13,7 +13,7 @@
             <div class="card mt-3">
                 <img class="card-img-top" src="{{ .Params.featured_image }}" alt="Card image cap">
                 <div class="card-body pt-0">
-                    <h6 class="card-subtitle text-capitalize mb-2">{{ .Title }}</h6>
+                    <h4 class="purple-gradient card-subtitle text-capitalize mb-2">{{ .Title }}</h4>
                     <p class="card-text">{{ .Description }}</p>
                 </div>
             </div>

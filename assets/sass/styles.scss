@@ -6,28 +6,37 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   line-height: 1.3;
 }
 
-h3, .h3{
-  font-weight: 700;
-  margin: 0;
+.purple-gradient{
   background: -webkit-linear-gradient(104.74deg, rgb(176, 30, 255) 0%, rgb(225, 70, 124) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-h5, .h5{
-  font-weight: 500;
-  margin: 0;
+.blue-gradient{
   background: -webkit-linear-gradient(104.74deg, rgb(32, 82, 132) 0%, rgb(32, 82, 132) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
+.section-nav-arrows{
+  opacity: 0.3;
+  height: 24px;
+  width: 24px;
+}
+
+h3, .h3{
+  font-weight: 700;
+  margin: 0;
+}
+
+h5, .h5{
+  font-weight: 500;
+  margin: 0;
+}
+
 h6, .h6{
   font-weight: 700;
   margin: 0;
-  background: -webkit-linear-gradient(104.74deg, rgb(176, 30, 255) 0%, rgb(225, 70, 124) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 p{
@@ -37,6 +46,10 @@ p{
 
 .bg-custom{
   background: $hero-background-color;
+}
+
+.text-black{
+  color: #000;
 }
 
 .full-page-cover{

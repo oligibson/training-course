@@ -1,6 +1,6 @@
 baseURL = "https://productplayground.org"
 languageCode = "en-us"
-title = "The Product Playground"
+title = "Product Playground"
 
 [params]
   author = ""

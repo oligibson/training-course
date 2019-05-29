@@ -1,0 +1,56 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<div class="jumbotron jumbotron-fluid bg-primary text-white">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="lead">{{ .Params.description }}</p>
+    </div>
+</div>
+
+<div class="container">
+    {{ .Summary }}
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col text-center">
+            <h4 class="font-weight-bold blue-gradient">The content you are trying to access is only available for registered users of Product Playground.</h4>
+            <button class="btn-primary btn-lg mx-auto mt-3">Sign Up for Access</button>
+        </div>
+    </div>
+</div>
+<div class="container-fluid border-top border-bottom border-light mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-6 py-3">
+                {{if .NextInSection}}
+                <a href="{{ .NextInSection.Permalink }}">
+                    <div class="media h-100">
+                        <img class="align-self-center mr-3 section-nav-arrows" src="/img/section-prev.svg" alt="Back">
+                        <div class="media-body text-left">
+                            <p class="small text-muted mb-0">Back to</p>
+                            <h6 class="text-black font-weight-bold">{{ .NextInSection.Title }}</h6>
+                        </div>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+            <div class="col-6 py-3 border-left border-light">
+                {{if .PrevInSection}}
+                <a href="{{ .PrevInSection.Permalink }}">
+                    <div class="media h-100">
+                        <div class="media-body text-right">
+                            <p class="small text-muted mb-0">Read next</p>
+                            <h6 class="text-black font-weight-bold">{{ .PrevInSection.Title }}</h6>
+                        </div>
+                        <img class="align-self-center ml-3 section-nav-arrows" src="/img/section-next.svg" alt="Next">
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}

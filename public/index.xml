@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Product Playground</title>
+    <title>The Product Playground on Product Playground</title>
     <link>https://productplayground.org/</link>
-    <description>Recent content on The Product Playground</description>
+    <description>Recent content in The Product Playground on Product Playground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Nov 2018 16:48:09 +0000</lastBuildDate>
@@ -18,6 +18,15 @@
       
       <guid>https://productplayground.org/courses/modeling/what-is-modeling/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to Business Planning</title>
+      <link>https://productplayground.org/business-planning/intro/</link>
+      <pubDate>Mon, 21 Jan 2019 14:39:09 +0000</pubDate>
+      
+      <guid>https://productplayground.org/business-planning/intro/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et molestie ac feugiat sed. Magnis dis parturient montes nascetur. Nisi est sit amet facilisis magna etiam. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio. Sed risus pretium quam vulputate dignissim suspendisse in est ante. Metus vulputate eu scelerisque felis imperdiet. Vulputate dignissim suspendisse in est ante in nibh mauris cursus.</description>
     </item>
     
     <item>
@@ -48,6 +57,15 @@
     </item>
     
     <item>
+      <title>The Lean Canvas</title>
+      <link>https://productplayground.org/business-planning/lean-canvas/</link>
+      <pubDate>Mon, 21 Jan 2019 14:39:09 +0000</pubDate>
+      
+      <guid>https://productplayground.org/business-planning/lean-canvas/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et molestie ac feugiat sed. Magnis dis parturient montes nascetur. Nisi est sit amet facilisis magna etiam. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio. Sed risus pretium quam vulputate dignissim suspendisse in est ante. Metus vulputate eu scelerisque felis imperdiet. Vulputate dignissim suspendisse in est ante in nibh mauris cursus.</description>
+    </item>
+    
+    <item>
       <title>Types of Experiment</title>
       <link>https://productplayground.org/courses/experimentation/types-of-experiment/</link>
       <pubDate>Fri, 18 Jan 2019 12:08:45 +0000</pubDate>
@@ -63,6 +81,15 @@
       
       <guid>https://productplayground.org/courses/modeling/lean-canvas/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The Business Canvas</title>
+      <link>https://productplayground.org/business-planning/business-canvas/</link>
+      <pubDate>Mon, 21 Jan 2019 14:39:09 +0000</pubDate>
+      
+      <guid>https://productplayground.org/business-planning/business-canvas/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et molestie ac feugiat sed. Magnis dis parturient montes nascetur. Nisi est sit amet facilisis magna etiam. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio. Sed risus pretium quam vulputate dignissim suspendisse in est ante. Metus vulputate eu scelerisque felis imperdiet. Vulputate dignissim suspendisse in est ante in nibh mauris cursus.</description>
     </item>
     
     <item>
